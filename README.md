@@ -7,6 +7,8 @@ This is a simple loan payments calculator.
 Designed to help you make decisions about load payments and how
 interest plays into things.
 
+## A Screenshot
+
 ![A screenshot of using the app](screenshot.png)
 
 ## Building
